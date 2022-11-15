@@ -44,7 +44,7 @@ import json
 import base64
 
 # setting the  environment variables
-ENDPOINT_NAME = 'image-classification-2021-12-04-07-33-27-658'
+ENDPOINT_NAME = 'image-classification-2022-11-15-07-52-18-905'
 # We will be using the AWS's lightweight runtime solution to invoke an endpoint.
 runtime= boto3.client('runtime.sagemaker')
 
